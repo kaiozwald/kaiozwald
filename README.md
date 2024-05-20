@@ -16,7 +16,7 @@
 - Data Science 😬
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=kaisolve&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=kaisolve&bg_color=#151515&title_color=fff&text_color=fff" />
 </a>
    
     
