@@ -2,9 +2,9 @@
 
 
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/kailearn/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiozwork@gmail.com)](mailto:kaiozwork@gmail.com) 
+### Hi there, I am Abdallah Abuhassan 👋
+[![Linkedin Badge](https://img.shields.io/badge/-kailearn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kailearn/)](https://www.linkedin.com/in/kailearn/)
+[![Gmail Badge](https://img.shields.io/badge/-kaiozwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiozwork@gmail.com)](mailto:kaiozwork@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://flowcv.me/kaiozwork)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
