@@ -1,4 +1,5 @@
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaisolve&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
@@ -15,8 +16,7 @@
 - Machine Learning 🧐
 - Data Science 😬
 
-    ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaisolve&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+   
     
 🛠**Tech Stack**
 
