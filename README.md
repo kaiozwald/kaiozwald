@@ -29,7 +29,7 @@
 
 <h3>You may wanna ask me:</h3>
 <details>
-  <summary>Who are you? 👨</summary>
+  <summary>Who are you?</summary>
   <pre>
   A passionate individual who like to learn new things.<br>
   My name describes my qualities,
@@ -45,13 +45,13 @@
   </pre>
 </details>
 <details>
-  <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
+  <summary>How can I believe that you are good at what you do?</summary>
   <ul>
   <li>Still learning so wait to see the ⭐</li>
   </ul>
 </details>
 <details>
-<summary>What do you do other than building AI systems? 💁‍♂️</summary>
+<summary>What do you do other than building AI systems?</summary>
   <ul>
     <li>Kickboxing and BJJ 🥊🤼.</li>
     <li>Read Novels 📖.</li>
