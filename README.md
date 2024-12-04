@@ -3,10 +3,10 @@
 
 
 ### Hi there, I am Abdallah Abuhassan 👋
-[![Linkedin Badge](https://img.shields.io/badge/-kailearn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kailearn/)](https://www.linkedin.com/in/kailearn/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiozwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiozwork@gmail.com)](mailto:kaiozwork@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-kaiozwald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiozwald/)](https://www.linkedin.com/in/kaiozwald/)
+[![Gmail Badge](https://img.shields.io/badge/-kaiozwald@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiozwald@gmail.com)](mailto:kaiozwald@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://flowcv.me/kaiozwork)
+- 🎯 Portfolio website: [Portfolio](https://flowcv.com/resume/sv51puv0um)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
