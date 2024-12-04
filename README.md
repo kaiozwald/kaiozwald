@@ -1,16 +1,16 @@
-<!-- <img src="https://github.com/kaiozwald/kaiozwald/blob/master/linkedin_banner.png" /> -->
+<!-- <img src="https://github.com/kaiozwald/kaiozwald/linkedin_banner.png" /> -->
 
 <h1>Hi Traveller, I am <a href="site">Abduallah M. Abuhassan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<!-- <img align='right' src="https://github.com/kaiozwald/kaiozwald/blob/master/my_image.jpeg" width="230" /> --> 
+<!-- <img align='right' src="https://github.com/kaiozwald/kaiozwald/my_image.jpeg" width="230" /> --> 
 
-<a href="https://www.linkedin.com/in/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/linkedin.png" width="40" /></a>
-<!-- <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/youtube-logo.png" width="40" /></a> -->
-<!-- <a href="https://www.patreon.com/devsense"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/patreon_logo.png" width="65" /></a> -->
-<a href="https://github.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/github-logo.png" width="40" /></a>
-<!-- <a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/facebook.png" width="40" /></a> -->
-<a href="mailto:kaiozwald@gmail.com"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/logos/linkedin.png" width="40" /></a>
+<!-- <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/kaiozwald/kaiozwald/logos/youtube-logo.png" width="40" /></a> -->
+<!-- <a href="https://www.patreon.com/devsense"><img src="https://github.com/kaiozwald/kaiozwald/logos/patreon_logo.png" width="65" /></a> -->
+<a href="https://github.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/logos/github-logo.png" width="40" /></a>
+<!-- <a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/kaiozwald/kaiozwald/logos/facebook.png" width="40" /></a> -->
+<a href="mailto:kaiozwald@gmail.com"><img src="https://github.com/kaiozwald/kaiozwald/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
@@ -69,8 +69,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/kaiozwald/kaiozwald/blob/master/generated/overview.svg)
-![](https://github.com/kaiozwald/kaiozwald/blob/master/generated/languages.svg)
+![](https://github.com/kaiozwald/kaiozwald/generated/overview.svg)
+![](https://github.com/kaiozwald/kaiozwald/generated/languages.svg)
+[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=kaiozwald&show_icons=true&count_private=true)](https://github.com/kaiozwald/github-readme-stats)  
 
 </a>
-[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=kaiozwald&show_icons=true&count_private=true)](https://github.com/kaiozwald/github-readme-stats)  
