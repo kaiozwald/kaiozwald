@@ -2,7 +2,7 @@
 
 <h1>Hi Amico, I am <a href="site">Abduallah M. Abuhassan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <!-- <img align='right' src="https://github.com/kaiozwald/kaiozwald/blob/main/my_image.jpeg" width="230" /> --> 
-
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">  
 <a href="https://www.linkedin.com/in/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/blob/main/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/kaiozwald"><img src="https://github.com/kaiozwald/kaiozwald/blob/main/logos/github-logo.png" width="40" /></a>
 <a href="mailto:kaiozwald@gmail.com"><img src="https://github.com/kaiozwald/kaiozwald/blob/main/logos/google-plus.png" width="40" /></a>
